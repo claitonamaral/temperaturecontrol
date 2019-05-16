@@ -1,6 +1,8 @@
 ## OBS:
 Necessary install npm in the directory of project
 
+With range time of 2 seconds temperature sensor refresh.
+
 -----//-----//----
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
