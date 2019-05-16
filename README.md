@@ -1,7 +1,7 @@
 ## OBS:
 Necessary install npm in the directory of project
 
-With range time of 2 seconds temperature sensor refresh.
+With range time of 20 seconds temperature sensor refresh.
 
 -----//-----//----
 
